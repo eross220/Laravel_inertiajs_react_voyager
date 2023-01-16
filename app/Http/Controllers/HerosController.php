@@ -42,7 +42,7 @@ class HerosController extends \TCG\Voyager\Http\Controllers\VoyagerBaseControlle
     public function sendEmail()
     {               
             $this->name = "Admin"; //recipient name
-            $this->email = "blacktigerbusinesswork@gmail.com"; //recipient email id
+            $this->email = " mailto:admin@test.com"; //recipient email id
             /**
              *creating an empty object of of stdClass
              *
