@@ -1,0 +1,1 @@
+# Laravel_inertiajs_react_voyager
